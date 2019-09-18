@@ -33,3 +33,5 @@
 **Optional: Creating a basic pipeline**
 1. Simple warm-up exercise for the upcoming Advanced Jenkins HOT.
 2. Following the instructions here: https://www.guru99.com/jenkins-pipeline-tutorial.html
+
+My Jenkins instance for this repository: http://35.201.24.164:8080
