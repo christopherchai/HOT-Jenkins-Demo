@@ -28,9 +28,7 @@
 7. Make sure alert profile is correct, then send test notification and save.
 8. Manually trigger a problem (i.e. change CPU threshold to 1%)
 9. When a problem is flagged out, observe the build job in Jenkins.
-10. If there is a new job, go to Console output. You should see something like this:
-
-
+10. If there is a new job, go to Console output. You should see something like this: https://github.com/christopherchai/HOT-Jenkins-Demo/blob/master/Capture2.JPG
 
 **Optional: Creating a basic pipeline**
 1. Simple warm-up exercise for the upcoming Advanced Jenkins HOT.
