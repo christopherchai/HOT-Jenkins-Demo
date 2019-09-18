@@ -20,7 +20,7 @@
 
 **Getting Dynatrace to push notification to Jenkins and trigger build job**
 1. Install Generic Webhook Trigger Plugin in Jenkins.
-2. Under Build Triggers, enable Generic Webhook Trigger. Add a token of your choice (I used dynatrace-integration-01).
+2. Under Build Triggers, enable Generic Webhook Trigger. Add a token of your choice (I use dynatrace-integration-01).
 3. (Optional) Add a cause. I use Dynatrace problem notification.
 4. Enable Print post content.
 5. In Dynatrace, go to Problem Notification > create Custom Integration.
