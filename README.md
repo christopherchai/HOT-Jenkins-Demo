@@ -18,3 +18,6 @@
 4. Start the build job. You can do it multiple times.
 5. In Dynatrace, under Host, you should see Deployment Events happening.
 
+**Optional: Creating a basic pipeline**
+1. Simple warm-up exercise for the upcoming Advanced Jenkins HOT.
+2. Following the instructions here: https://www.guru99.com/jenkins-pipeline-tutorial.html
