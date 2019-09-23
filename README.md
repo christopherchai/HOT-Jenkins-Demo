@@ -9,8 +9,9 @@
 **Create a Sample Job**
 1. Follow the steps outlined here - https://www.guru99.com/create-builds-jenkins-freestyle-project.html
 2. For Step 5, use this repository URL - https://github.com/christopherchai/HOT-Jenkins-Demo.git
-3. Make sure that javac is installed! (yum install java-devel)
-3. Try to build a successful job. That's about it.
+3. For Step 6, use "Execute Shell" instead "Execute Window batch command".
+4. Make sure that javac is installed! (yum install java-devel)
+5. Try to build a successful job. That's about it.
 
 **Getting Jenkins to push deployment events to Dynatrace**
 1. Install Dynatrace OneAgent on the Jenkins host. It's okay to restart Jenkins service.
